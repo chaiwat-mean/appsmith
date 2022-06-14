@@ -1,0 +1,20 @@
+{
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 4,
+  "pageOrder": [
+    "login",
+    "home",
+    "Page2"
+  ],
+  "publishedPageOrder": [
+    "login",
+    "home",
+    "Page2"
+  ],
+  "publishedDefaultPageName": "login",
+  "unpublishedDefaultPageName": "login",
+  "invisibleActionFields": {},
+  "publishedLayoutmongoEscapedWidgets": {},
+  "unpublishedLayoutmongoEscapedWidgets": {},
+  "fileFormatVersion": 2
+}
